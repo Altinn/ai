@@ -1,2 +1,2 @@
 # ai
-Backlog related to generative AI
+Backlog related to potential cases for generative AI in Digdir.
